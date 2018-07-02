@@ -23,7 +23,7 @@ description              : "使用Jekyll制作的网站."
 url                      : "https://nfunm171061397.gitee.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "nfunm171061397/minimal-mistakes/"
-teaser                   : "500x300.png"
+teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
