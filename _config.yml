@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "使用Minimal Mistakes主题的Jekyll主题网站"
+title                    : "张柳燕个人网站"
 title_separator          : ":"
 name                     : "张柳燕"
-description              : "用Jekyll制作的网站."
-url                      : https://nfunm171061397.gitee.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "nfunm171061397/minimal-mistakes/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "使用Jekyll制作的网站."
+url                      : "https://nfunm171061397.gitee.io"
+baseurl                  : "/minimal-mistakes"
+repository               : "nfunm171061397/minimal-mistakes/"
 teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
