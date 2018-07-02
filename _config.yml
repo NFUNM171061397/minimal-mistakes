@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "张柳燕"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/avatar.jpg
   bio              : "中山大学南方学院 文学与传媒学院"
   location         : "广东-广州"
   email            :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kissbabysky"
+  github           : "https://gitee.com/nfunm171061397/"
   gitlab           :
   google_plus      :
   keybase          :
