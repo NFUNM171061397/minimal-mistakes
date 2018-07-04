@@ -3,7 +3,7 @@ main:
   - title: "简书"
     url: "https://www.jianshu.com/u/440294f448ea"
   - title: "svg制作"
-    url: /_pages/about/
+    url: /svg/
   - title: "界面设计"
     url: /design/#界面设计
   - title: "平面设计"
