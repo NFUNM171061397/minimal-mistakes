@@ -1,7 +1,8 @@
 ---
-title："关于我"
+layout: archive
 permalink: /about/
-date: 2018-07-02T2:25:52+08:00
+title: "关于我"
+author_profile: true
 ---
 
 > 中山大学南方学院学生——张柳燕（网络与新媒体专业）
