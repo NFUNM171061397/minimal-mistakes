@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "张柳燕"
-  avatar           : /images/avatar.jpg
+  avatar           :  "/images/avatar.jpg"
   bio              : "中山大学南方学院 文学与传媒学院"
   location         : "广东-广州"
   email            :
