@@ -197,14 +197,13 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-   
-
-
+  
 # Collections
 collections:
   svg:
     output: true
     permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -229,7 +228,6 @@ defaults:
       share: true
       comments: true
       
-    
 # Sass/SCSS
 sass:
   sass_dir: _sass
