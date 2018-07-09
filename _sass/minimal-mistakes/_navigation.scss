@@ -469,7 +469,7 @@
   margin: 0;
   padding: 0.5rem 1rem;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  font-size: 18px;
   font-weight: bold;
 }
 
@@ -478,7 +478,7 @@
   margin: 0.5rem 0;
   padding: 0.5rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-size: $type-size-4;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
@@ -500,7 +500,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
@@ -518,7 +518,7 @@
     display: block;
     padding: 0.5rem 1rem;
     color: $muted-text-color;
-    font-size: $type-size-7;
+    font-size: $type-size-5;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
