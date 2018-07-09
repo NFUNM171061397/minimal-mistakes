@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise_ly" # "air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "张柳燕的个人网站"
+title                    : "张柳燕个人网站"
 title_separator          : ":"
 name                     : "张柳燕"
 description              : "My first personal website."
